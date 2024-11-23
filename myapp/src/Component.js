@@ -4,7 +4,7 @@ const Component = () => {
   return (
     <>
     <div>
-        Hi World!!
+        Hi hello World!!
     </div>
     </>
   )
